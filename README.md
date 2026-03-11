@@ -6,7 +6,7 @@ This project predicts whether an individual has diabetes using demographic and l
 The dataset comes from the Kaggle Playground Series competition.
 
 Download it here:
-https://www.kaggle.com/competitions/playground-series-s4e3
+https://www.kaggle.com/competitions/playground-series-s5e12
 
 Place the dataset files in:
 
